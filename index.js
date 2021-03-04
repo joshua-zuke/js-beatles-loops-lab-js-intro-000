@@ -18,6 +18,5 @@ function johnLennonFacts(facts){
   let num = 0
   while (num > 0) {
     array.push(`${facts[num]}!!!`
-  }
   return array
 }
