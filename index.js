@@ -22,3 +22,13 @@ function johnLennonFacts(facts){
   }
   return array
 }
+
+function iLoveTheBeatles(n)
+
+
+
+function doWhileLoop(num){
+  do {
+    console.log("I run once regardless.")
+  } while(incrementVariable(num) < num)
+}
