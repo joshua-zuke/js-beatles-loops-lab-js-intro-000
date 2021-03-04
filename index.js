@@ -23,8 +23,10 @@ function johnLennonFacts(facts){
   return array
 }
 
-function iLoveTheBeatles(n)
-
+function iLoveTheBeatles(num){
+  var array = []
+  
+}
 
 
 function doWhileLoop(num){
