@@ -32,10 +32,3 @@ function iLoveTheBeatles(num){
 
   return array
 }
-
-
-function doWhileLoop(num){
-  do {
-    console.log("I run once regardless.")
-  } while(incrementVariable(num) < num)
-}
