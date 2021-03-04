@@ -1,5 +1,6 @@
 // add solution here
 function theBeatlesPlay(musicians, instruments){
+  array = []
   for (let i = 0; i < 5; i++){
     array.push(`${musicians[0]} plays ${instruments[0]}`)
   }
