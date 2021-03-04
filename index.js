@@ -18,6 +18,7 @@ function johnLennonFacts(facts){
   let num = 0
   while (num > 0) {
     array.push(`${facts[num]}!!!`)
+    num += 1
   }
   return array
 }
