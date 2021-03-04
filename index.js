@@ -16,7 +16,7 @@ return array
 function johnLennonFacts(facts){
   var array = []
   let num = 0
-  while (num < 3) {
+  while (num < 2) {
     array.push(`${facts[num]}!!!`)
     num += 1
   }
