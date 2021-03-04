@@ -12,3 +12,12 @@ return array
 // `${musicians[0]} plays ${instruments[0]}`
 // need to add to array, I think .push is okay because we only need one array
 // return
+
+function whileLoop(facts){
+  var array = []
+  let num = 0
+  while (num > 0){
+    array.push(`${facts[num]}!!!`
+  }
+  return array
+}
